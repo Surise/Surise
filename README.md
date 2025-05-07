@@ -4,27 +4,12 @@
 
 # 🌅 Surise_su
 
-> <span id="hitokoto">身边冬天迟钝，心中群山汹涌.</span>
-
 一位平平无奇的网络边缘拾荒者.试图在互联网中开垦出一片属于自己的净土.
 
 个人主页:[surise.cn](https://surise.cn "点击跳转到 Surise の 个人主页")
 
 自建Meting-API:[api.surise.cn](https://api.surise.cn "点击跳转到 Surise の Meting")
 
-<script>
-  fetch('https://v1.hitokoto.cn/')
-    .then(response => response.json())
-    .then(data => {
-      document.getElementById('hitokoto').innerText = data.hitokoto;
-    })
-    .catch(error => {
-      console.error('获取失败:', error);
-      document.getElementById('hitokoto').innerText = "身边冬天迟钝，心中群山汹涌.";
-    });
-</script>
-
-# Surise
 ## 一个平平无奇的互联网水鱼
 > 沉浸在Python/Js/C/HTML/PHP/Vue中的低级开发者
 
