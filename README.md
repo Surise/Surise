@@ -8,10 +8,10 @@
 
 个人主页:[surise.cn](https://surise.cn "点击跳转到 Surise の 个人主页")
 
-自建Meting-API:[api.surise.cn](https://api.surise.cn "点击跳转到 Surise の Meting")
+个人网盘:[pan.surise.cn](https://pan.surise.cn "点击跳转到 Surise の Pan")
 
 ## 一个平平无奇的互联网水鱼
-> 沉浸在Python/Js/C/HTML/PHP/Vue中的低级开发者
+> 沉浸在Python/Js/C/HTML/React/PHP/Vue中的低级开发者
 
 ###
 
@@ -27,9 +27,5 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://pan.surise.cn/d/surise/1.gif"  />
-</div>
 
-###
 
