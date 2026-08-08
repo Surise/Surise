@@ -1,31 +1,65 @@
-<h2 align="left">Hi 👋! My name is Surise and I'm a student from China.</h2>
-
-###
-
-# 🌅 Surise_su
-
-一位平平无奇的网络边缘拾荒者.试图在互联网中开垦出一片属于自己的净土.
-
-个人主页:[surise.cn](https://surise.cn "点击跳转到 Surise の 个人主页")
-
-个人网盘:[pan.surise.cn](https://pan.surise.cn "点击跳转到 Surise の Pan")
-
-## 一个平平无奇的互联网水鱼
-> 沉浸在Python/Js/C/HTML/React/PHP/Vue中的低级开发者
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surise&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surise&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="./1.gif" width="120" alt="Surise working" />
+  <h1>Hi, I'm Surise 👋</h1>
+  <p>一名来自中国的学生，喜欢把好奇心写成能运行的东西。</p>
+  <p>
+    <a href="https://surise.cn">个人主页</a> ·
+    <a href="https://pan.surise.cn">个人网盘</a> ·
+    <a href="https://github.com/Surise">GitHub</a>
+  </p>
 </div>
 
-###
+<br />
 
+<table align="center">
+  <tr>
+    <td valign="top" width="52%">
 
-###
+### About me
 
-<br clear="both">
+- 🎓 Student developer from China
+- 🧰 Exploring Python, JavaScript, C, HTML, React, PHP and Vue
+- 🧪 Interested in turning small ideas into useful tools
+- 🌐 Writing and building at [surise.cn](https://surise.cn)
 
+    </td>
+    <td valign="top" width="48%">
 
+### Current mindset
 
+> Keep learning, keep shipping, keep the interface simple.
+
+```text
+read  →  build  →  test  →  share
+```
+
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### GitHub at a glance
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surise&theme=dracula" height="170" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surise&theme=dracula" height="170" alt="Repository languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surise&theme=dracula" width="90%" alt="GitHub contribution summary" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Surise?style=flat-square&label=Followers&color=7aa2f7&labelColor=24283b" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Surise?style=flat-square&label=Profile%20stars&color=bb9af7&labelColor=24283b" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=Surise&style=flat-square&label=Profile%20views&color=7dcfff&labelColor=24283b" alt="Profile views" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Made with curiosity · Updated automatically by GitHub</sub>
+</div>
