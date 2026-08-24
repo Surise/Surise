@@ -42,12 +42,12 @@ read  →  build  →  test  →  share
 ### GitHub at a glance
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surise&theme=dracula" height="170" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surise&theme=dracula" height="170" alt="Repository languages" />
+  <img src="https://raw.githubusercontent.com/Surise/Surise/output/stats.svg" height="190" alt="GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/Surise/Surise/output/languages.svg" height="190" alt="Repository languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surise&theme=dracula" width="90%" alt="GitHub contribution summary" />
+  <img src="https://raw.githubusercontent.com/Surise/Surise/output/pacman-contribution-graph.svg" width="90%" alt="GitHub contribution graph" />
 </div>
 
 <br />
