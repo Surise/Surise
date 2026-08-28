@@ -46,16 +46,16 @@ read  →  build  →  test  →  share
   <img src="https://raw.githubusercontent.com/Surise/Surise/output/languages.svg" height="190" alt="Repository languages" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Surise/Surise/output/pacman-contribution-graph.svg" width="90%" alt="GitHub contribution graph" />
-</div>
+</div> -->
 
 <br />
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Surise?style=flat-square&label=Followers&color=7aa2f7&labelColor=24283b" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Surise?style=flat-square&label=Profile%20stars&color=bb9af7&labelColor=24283b" alt="GitHub stars" />
-  <!-- <img src="https://komarev.com/ghpvc/?username=Surise&style=flat-square&label=Profile%20views&color=7dcfff&labelColor=24283b" alt="Profile views" /> -->
+  <img src="https://komarev.com/ghpvc/?username=Surise&style=flat-square&label=Profile%20views&color=7dcfff&labelColor=24283b" alt="Profile views" />
 </div>
 
 <br />
