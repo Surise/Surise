@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190" role="img" aria-labelledby="title desc">
+  <title id="title">Surise GitHub statistics</title>
+  <desc id="desc">Repositories, stars, forks and followers</desc>
+  <rect width="495" height="190" rx="12" fill="#24283b"/>
+  <text x="28" y="36" fill="#c0caf5" font-family="Arial,sans-serif" font-size="18" font-weight="700">GitHub statistics</text>
+  <text x="28" y="58" fill="#565f89" font-family="Arial,sans-serif" font-size="12">Surise · updated by GitHub Actions</text>
+  <text x="28" y="98" fill="#7aa2f7" font-family="Arial,sans-serif" font-size="24" font-weight="700">13</text><text x="28" y="117" fill="#a9b1d6" font-family="Arial,sans-serif" font-size="12">Repositories</text><text x="253" y="98" fill="#7aa2f7" font-family="Arial,sans-serif" font-size="24" font-weight="700">1</text><text x="253" y="117" fill="#a9b1d6" font-family="Arial,sans-serif" font-size="12">Followers</text><text x="28" y="153" fill="#7aa2f7" font-family="Arial,sans-serif" font-size="24" font-weight="700">5</text><text x="28" y="172" fill="#a9b1d6" font-family="Arial,sans-serif" font-size="12">Stars</text><text x="253" y="153" fill="#7aa2f7" font-family="Arial,sans-serif" font-size="24" font-weight="700">0</text><text x="253" y="172" fill="#a9b1d6" font-family="Arial,sans-serif" font-size="12">Forks</text>
+</svg>
