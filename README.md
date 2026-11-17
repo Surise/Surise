@@ -61,5 +61,5 @@ read  →  build  →  test  →  share
 <br />
 
 <div align="center">
-  <sub>Made with curiosity · Updated automatically by GitHub</sub>
+  <sub>我观春山意难穷，青也惊鸿，颓也从容</sub>
 </div>
